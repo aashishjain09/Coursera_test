@@ -52,22 +52,6 @@ section>p {
     width: 100%;
 }
 
-p{
-	border: 1px solid black;
-	background-color: #A52A2A;
-	width: 90%;
-	height: 150px;
-	margin-right: auto;
-	margin-left: auto;
-	font-family: Helvetica;
-	color: white;
-}
-.row > title {
-	font-size: 32px;
-	font-family: "Lucida Console";
-	float: right;
-	border: 1px solid #BDC3C7;
-}
 /*********Simple Responsive Framework*********/
 .row{
 	margin-bottom: 15px;
